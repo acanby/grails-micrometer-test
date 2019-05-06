@@ -1,0 +1,6 @@
+model {
+    int seconds
+}
+json {
+    sleptFor seconds
+}
